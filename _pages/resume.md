@@ -33,4 +33,4 @@ Industry experience
   * Built a production pricing model on ride-share data (15M+ data points)
 * **Research Intern @ Grant Thornton**
 
-(Still updating)
+(Still updating...)
