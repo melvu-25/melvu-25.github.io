@@ -1,10 +1,12 @@
-/* Custom typography: lighter weight font */
+/* Custom typography: Spectral throughout */
 body, input, textarea, select, button {
-  font-family: "Inter", -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Spectral", Georgia, "Times New Roman", serif;
   font-weight: 300;
 }
+h1, h2, h3, h4, h5, h6, .page__title, .archive__item-title, .author__name, .masthead__menu-item {
+  font-family: "Spectral", Georgia, "Times New Roman", serif;
+}
 h1, h2, h3, h4, h5, h6, .page__title, .archive__item-title, .author__name {
-  font-family: "Inter", -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-weight: 500;
 }
 strong, b { font-weight: 500; }
