@@ -14,3 +14,10 @@ strong, b { font-weight: 500; }
 .sidebar, .author__name, .author__bio, .author__urls, .author__urls-wrapper, .page__footer, .page__footer-follow, .page__footer-copyright, .page__meta, .archive__item-excerpt, .masthead, .greedy-nav, .greedy-nav a {
   font-family: "Spectral", Georgia, "Times New Roman", serif;
 }
+
+/* Profile photo: 3x4 portrait with softly rounded corners */
+.author__avatar img {
+  border-radius: 6px;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+}
