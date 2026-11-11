@@ -1,5 +1,5 @@
 ---
-title: "Whose Vietnam War? Auditing Cross-Lingual Bias in Four Large Language Models"
+title: "Whose Vietnam War? How LLMs Answer Contested History in Three Languages"
 excerpt: "An audit of how four LLMs answer contested questions about Vietnam War history depending on the language they are asked in."
 collection: portfolio
 date: 2026-05-01
