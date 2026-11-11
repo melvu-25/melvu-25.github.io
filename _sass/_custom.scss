@@ -46,3 +46,11 @@ strong, b { font-weight: 500; }
   color: var(--global-masthead-link-color);
   cursor: default;
 }
+
+/* Resume: dates aligned to the right end of each line */
+.cv-date {
+  float: right;
+  margin-left: 1em;
+  white-space: nowrap;
+  color: var(--global-text-color-light);
+}
