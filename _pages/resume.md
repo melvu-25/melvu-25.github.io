@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv/
 ---
 
 {% include base_path %}
 
-<!-- To link a PDF version: put cv.pdf in /files/ and uncomment the next line -->
-<!-- [Download CV (PDF)](/files/cv.pdf) -->
+<!-- To link a PDF version: put resume.pdf in /files/ and uncomment the next line -->
+<!-- [Download resume (PDF)](/files/resume.pdf) -->
 
 Education
 ======

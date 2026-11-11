@@ -1,0 +1,26 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /publications/
+  - /talks/
+  - /portfolio/
+---
+
+{% include base_path %}
+
+<h2>Publications</h2><hr />
+{% if site.publications.size > 0 %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+  <p>Coming soon.</p>
+{% endif %}
+
+<h2>Conferences</h2><hr />
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}

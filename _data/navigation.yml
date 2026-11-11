@@ -1,20 +1,15 @@
 # Order of the links in the site header.
 
 main:
+  - title: "About"
+    url: /
+
   - title: "Research"
-    url: /portfolio/
+    url: /research/
 
-  - title: "Talks"
-    url: /talks/
+  - title: "Resume"
+    url: /resume/
 
-  - title: "PhD Journal"
-    url: /year-archive/
-
-  - title: "CV"
-    url: /cv/
-
-# Add these back once you have entries:
-#  - title: "Publications"
-#    url: /publications/
-#  - title: "Teaching"
-#    url: /teaching/
+# Hidden for now. Add back here if you want them in the menu:
+#  - title: "PhD Journal"
+#    url: /year-archive/
