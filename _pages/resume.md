@@ -23,9 +23,7 @@ Research experience
 ======
 * **Graduate Research Assistant**, University of Maryland, 2026 to present
 * **Undergraduate Researcher**, Kenyon College 
-  * Social network analysis of public discourse around the Frasier Solar project
 * **Office of Institutional Research**, Kenyon College
-  * Enrollment capture rate analyses
 
 Industry experience
 ======
