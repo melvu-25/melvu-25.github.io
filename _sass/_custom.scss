@@ -15,8 +15,8 @@ strong, b { font-weight: 500; }
   font-family: "Spectral", Georgia, "Times New Roman", serif;
 }
 
-/* Profile photo: original ratio, no cropping, smooth rounded corners */
+/* Profile photo: original ratio, no cropping, oval shape */
 .author__avatar img {
-  border-radius: 14px;
+  border-radius: 50%;
   height: auto;
 }
