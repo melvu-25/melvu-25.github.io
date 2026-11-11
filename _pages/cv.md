@@ -9,56 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- To link a PDF version: put cv.pdf in /files/ and uncomment the next line -->
+<!-- [Download CV (PDF)](/files/cv.pdf) -->
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Information Science**, University of Maryland, College Park, 2026 to present
+  * Advisor: Dr. Masha Krupenkin
+* **B.A. in Applied Mathematics/Statistics and Chinese**, Kenyon College, 2026
+  * Study abroad: Shanghai, China
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **PhD Researcher**, Computational Social Dynamics Lab, University of Maryland, 2026 to present
+* **Undergraduate Researcher**, Kenyon College (with Prof. Nicholas Theis)
+  * Social network analysis of public discourse around the Frasier Solar project
+* **Office of Institutional Research**, Kenyon College
+  * Enrollment capture rate analyses
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Industry experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Machine Learning**, VinBigdata, Vietnam
+  * Built a production pricing model on ride-share data (15M+ data points)
+* **Grant Thornton**, Shanghai
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+Selected projects
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* "Whose Vietnam War? Auditing Cross-Lingual Bias in Four Large Language Models"
+  * Ranked first in class; invited for archiving on Kenyon's digital humanities platform
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* **Programming:** Python, SQL, LaTeX
+* **Methods:** regression, Bayesian estimation, social network analysis, spectral methods (SVD, PCA, spectral graph partitioning), machine learning
+* **Languages:** English, Vietnamese, Mandarin Chinese
