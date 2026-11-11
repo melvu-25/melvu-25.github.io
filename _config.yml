@@ -26,11 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Melissa Vu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student, Information Science @ UMD. Computational social science, social networks, and AI."
-  location         : "College Park, MD"
-  employer         : "University of Maryland"
-  uri              : # URL
-  email            : # add your UMD email here 
+  bio              : "PhD student, Information Science @ UMD"
+  linkedin         : https://www.linkedin.com/in/melissa-vu/
+  email            : melvu@umd.edu 
 
   # Academic websites
   academia         : # URL
