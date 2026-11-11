@@ -141,7 +141,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : share-card-3.png   # Social media default site image (lives in /images/)
+og_image                 : share-card-4.png   # Social media default site image (lives in /images/)
 og_description           : "PhD student in Information Science at the University of Maryland, College Park, studying computational social science, social networks, and NLP." # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
