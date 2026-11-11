@@ -24,8 +24,8 @@ Research interests (still exploring!)
 
 News
 ------
-* **Nov 2026:** Launched this website!!
+* **Nov 2026:** Launched this website!
 * **Oct 16, 2026:** Chaired the panel "What Constructed Agents Sound Like: Language, Pragmatics, and Culture in Human-AI Interaction" and presented my research about AI agents on Vietnamese pronouns at the Technology for Second Language Learning (TSLL) Conference, Iowa State University.
-* **Aug 26, 2026:** Started my PhD @ UMD:)
+* **Aug 26, 2026:** Started my PhD @ UMD.
 * **May 18, 2026:** Graduated from Kenyon College! I'm forever thankful for the support and the meaningful connections with my professors and friends over four years on this little hill 💜
 * **March 28, 2026:** Presented social network analysis research on the Frasier Solar project at the Midwest Sociological Society (MSS) conference.
