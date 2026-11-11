@@ -28,3 +28,12 @@ strong, b { font-weight: 500; }
 .page__content a:hover, .archive a:hover {
   text-decoration: underline;
 }
+
+/* Links in page text: no underline (underline only on hover) */
+.page__content a,
+.page__content a:visited {
+  text-decoration: none;
+}
+.page__content a:hover {
+  text-decoration: underline;
+}
