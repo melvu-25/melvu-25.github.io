@@ -14,15 +14,15 @@ redirect_from:
 
 Education
 ======
-* <span class="cv-date">Fall 2026 – Present</span>**Ph.D. in Information Science**, University of Maryland, College Park
+* <span class="cv-date">08/2026 – Present</span>**Ph.D. in Information Science**, University of Maryland, College Park
   * Advisors: Dr. Masha Krupenkin and Dr. Yiwei Xu
 * <span class="cv-date">08/2022 – 05/2026</span>**B.A. in Applied Mathematics/Statistics and Chinese**, Kenyon College
   * Study abroad: Shanghai, China
 
 Research experience
 ======
-* <span class="cv-date">Fall 2026 – Present</span>**Graduate Research Assistant**, University of Maryland
-* <span class="cv-date">05/2025 – Present</span>**Undergraduate Researcher**, Kenyon College
+* <span class="cv-date">08/2026 – Present</span>**Graduate Research Assistant**, University of Maryland
+* <span class="cv-date">05/2025 – 05/2026</span>**Undergraduate Researcher**, Kenyon College
 * <span class="cv-date">12/2023 – 05/2026</span>**Office of Institutional Research**, Kenyon College
 
 Industry experience
