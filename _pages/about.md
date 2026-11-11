@@ -15,7 +15,7 @@ Before UMD, I graduated from Kenyon College in 2026 with a double major in Appli
 
 I work in English, Vietnamese, and Mandarin Chinese.
 
-Research interests
+Research interests (still exploring!)
 ------
 * Computational social science
 * Social network analysis
@@ -24,6 +24,6 @@ Research interests
 News
 ------
 * **Nov 2026:** Launched this website.
-* **Aug 2026:** Started my PhD in Information Science at the University of Maryland, College Park, advised by Dr. Masha Krupenkin and Dr. Yiwei Xu.
-* **May 2026:** Graduated from Kenyon College with a double major in Applied Mathematics/Statistics and Chinese.
-* **2026:** Presented social network analysis research on the Frasier Solar project at the MSS conference.
+* **Aug 26, 2026:** Started my PhD :)
+* **May 18, 2026:** Graduated from Kenyon College with a double major in Applied Mathematics/Statistics and Chinese.
+* **March 28, 2026:** Presented social network analysis research on the Frasier Solar project at the MSS conference.
