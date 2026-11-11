@@ -15,9 +15,8 @@ strong, b { font-weight: 500; }
   font-family: "Spectral", Georgia, "Times New Roman", serif;
 }
 
-/* Profile photo: 3x4 portrait with softly rounded corners */
+/* Profile photo: original ratio, no cropping, smooth rounded corners */
 .author__avatar img {
-  border-radius: 6px;
-  aspect-ratio: 3 / 4;
-  object-fit: cover;
+  border-radius: 14px;
+  height: auto;
 }
