@@ -2,9 +2,9 @@
 title: "Social Network Analysis of Public Discourse Around the Frasier Solar Project"
 collection: talks
 type: "Presentation"
-permalink: /talks/2026-03-01-mss-frasier-solar
+permalink: /talks/2026-03-28-mss-frasier-solar
 venue: "MSS Conference"
-date: 2026-03-01
+date: 2026-03-28
 location: ""
 ---
 
