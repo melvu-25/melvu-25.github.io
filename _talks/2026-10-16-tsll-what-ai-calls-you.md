@@ -1,7 +1,7 @@
 ---
 title: "What AI Calls You: Social Deixis, Pronoun Systems, and the Limits of AI Agents in Vietnamese"
 collection: talks
-type: "Presentation and panel chair"
+type: "Panel chair and presenter"
 permalink: /talks/2026-10-16-tsll-what-ai-calls-you
 venue: "Technology for Second Language Learning (TSLL) Conference, Iowa State University"
 date: 2026-10-16
