@@ -20,3 +20,11 @@ strong, b { font-weight: 500; }
   border-radius: 50%;
   height: auto;
 }
+
+/* Links in page text: no underline, underline only on hover */
+.page__content a, .archive a {
+  text-decoration: none;
+}
+.page__content a:hover, .archive a:hover {
+  text-decoration: underline;
+}
