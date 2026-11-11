@@ -7,20 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student in Information Science at the University of Maryland, College Park, advised by Dr. Masha Krupenkin and Dr. Yiwei Xu. I'm a member of the Computational Social Dynamics Lab (CSDL) and Computational Linguistics and Information Processing (CLIP) Lab.
+I'm a first-year PhD student in Information Science at the University of Maryland, College Park, advised by Dr. Masha Krupenkin and Dr. Yiwei Xu. I'm a member of the Computational Social Dynamics Lab (CSDL) and the Computational Linguistics and Information Processing (CLIP) Lab.
 
-My research focuses on computational social science and network science. I’m interested in using large-scale social media data to understand how people interact and share information on social platforms, and how platform dynamics shape communication, persuasion, and information flow online, including media and political narratives. As a first-year, I’m still exploring which of these directions I want to pursue.
+My research focuses on computational social science and network science. I'm interested in using large-scale social media data to understand how people interact and share information on social platforms, and how platform dynamics shape communication, persuasion, and information flow online, including media and political narratives. As a first-year, I'm still narrowing down my specific questions.
 
-Before UMD, I graduated from Kenyon College in 2026 with a double major in Applied Mathematics/Statistics and Chinese. I've worked on machine learning in industry at VinBigdata in Vietnam, where I built a production pricing model on large-scale ride-share data, and I've done network analysis research on public discourse during college.
+Before UMD, I graduated from Kenyon College in 2026 with a double major in Applied Mathematics/Statistics and Chinese. I've worked on machine learning in industry at VinBigdata in Vietnam, where I built a production pricing model on ride-share data with over 15 million records, and at Kenyon I used network analysis to study public discourse around a local solar energy project, with Prof. Nicholas Theis.
 
 I work in English, Vietnamese, and Mandarin Chinese.
 
 Research interests
 ------
-* Computational social science and network science
-* How people interact and share information on social platforms
-* Persuasion and information flow online
-* Media and political narratives
+* Computational social science
+* Social network analysis
+* Natural language processing
 
 News
 ------
