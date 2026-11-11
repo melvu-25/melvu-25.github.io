@@ -3,7 +3,7 @@ title: "Social Network Analysis of Public Discourse Around the Frasier Solar Pro
 collection: talks
 type: "Co-presenter"
 permalink: /talks/2026-03-28-mss-frasier-solar
-venue: "MSS Conference"
+venue: "MSS"
 date: 2026-03-28
 location: ""
 ---

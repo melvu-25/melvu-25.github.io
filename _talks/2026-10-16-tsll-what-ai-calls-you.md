@@ -3,9 +3,9 @@ title: "What AI Calls You: Social Deixis, Pronoun Systems, and the Limits of AI 
 collection: talks
 type: "Panel chair and presenter"
 permalink: /talks/2026-10-16-tsll-what-ai-calls-you
-venue: "Technology for Second Language Learning (TSLL) Conference, Iowa State University"
+venue: "TSLL"
 date: 2026-10-16
-location: "Ames, IA"
+location: ""
 ---
 
 Vietnamese has no neutral "I" and "you": speakers choose pronouns based on age, gender, and family rank. This talk looks at how AI agents handle the Vietnamese pronoun system, both in what they call the user and in what they call themselves.
