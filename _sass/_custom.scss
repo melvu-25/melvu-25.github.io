@@ -37,3 +37,12 @@ strong, b { font-weight: 500; }
 .page__content a:hover {
   text-decoration: underline;
 }
+
+/* Site name in the top bar: plain text, not a link */
+.masthead__site-name {
+  display: block;
+  margin: 0 1rem;
+  padding: 0.5rem 0;
+  color: var(--global-masthead-link-color);
+  cursor: default;
+}
