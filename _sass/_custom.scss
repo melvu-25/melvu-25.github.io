@@ -11,3 +11,6 @@ h1, h2, h3, h4, h5, h6, .page__title, .archive__item-title, .author__name {
 }
 strong, b { font-weight: 500; }
 .masthead { background-color: var(--global-bg-color); }
+.sidebar, .author__name, .author__bio, .author__urls, .author__urls-wrapper, .page__footer, .page__footer-follow, .page__footer-copyright, .page__meta, .archive__item-excerpt, .masthead, .greedy-nav, .greedy-nav a {
+  font-family: "Spectral", Georgia, "Times New Roman", serif;
+}
