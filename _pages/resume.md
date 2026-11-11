@@ -21,30 +21,19 @@ Education
 
 Research experience
 ======
-* **PhD Researcher**, Computational Social Dynamics Lab (CSDL) and Computational Linguistics and Information Processing (CLIP) Lab, University of Maryland, 2026 to present
-* **Undergraduate Researcher**, Kenyon College (with Prof. Nicholas Theis)
+* **Graduate Research Assistant**, University of Maryland, 2026 to present
+* **Undergraduate Researcher**, Kenyon College 
   * Social network analysis of public discourse around the Frasier Solar project
 * **Office of Institutional Research**, Kenyon College
   * Enrollment capture rate analyses
 
 Industry experience
 ======
-* **Machine Learning**, VinBigdata, Vietnam
+* **Data Science Intern @ VinBigdata**
   * Built a production pricing model on ride-share data (15M+ data points)
-* **Grant Thornton**, Shanghai
+* **Research Intern @ Grant Thornton**
 
-Presentations
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
-Selected projects
-======
-* "Whose Vietnam War? Auditing Cross-Lingual Bias in Four Large Language Models"
-  * Ranked first in class; invited for archiving on Kenyon's digital humanities platform
-
-Skills
+(Still updating)
 ======
 * **Programming:** Python, SQL, LaTeX
 * **Methods:** regression, Bayesian estimation, social network analysis, spectral methods (SVD, PCA, spectral graph partitioning), machine learning
