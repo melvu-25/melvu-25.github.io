@@ -23,7 +23,7 @@ repository               : "melvu-25/melvu-25.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-photo.jpg"
+  avatar           : "profile-photo-3x4.jpg"
   name             : "Melissa (Linh Thao) Vu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student @ UMD"
