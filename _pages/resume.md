@@ -34,7 +34,3 @@ Industry experience
 * **Research Intern @ Grant Thornton**
 
 (Still updating)
-======
-* **Programming:** Python, SQL, LaTeX
-* **Methods:** regression, Bayesian estimation, social network analysis, spectral methods (SVD, PCA, spectral graph partitioning), machine learning
-* **Languages:** English, Vietnamese, Mandarin Chinese
