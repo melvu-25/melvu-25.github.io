@@ -13,8 +13,13 @@ redirect_from:
 
 <h2>Publications</h2><hr />
 {% if site.publications.size > 0 %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+  {% assign pubs = site.publications | sort: "date" | reverse %}
+  {% for post in pubs %}
+  <p>
+    <strong><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></strong><br>
+    {{ post.authors }}. <i>{{ post.venue }}</i>, Kenyon College, {{ post.season }}. Digital Kenyon.
+    [<a href="{{ post.recordurl }}">Record</a>] [<a href="{{ post.pdfurl }}">PDF</a>]
+  </p>
   {% endfor %}
 {% else %}
   <p>Coming soon.</p>
