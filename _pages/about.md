@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student in Information Science at the University of Maryland, College Park, advised by [Dr. Masha Krupenkin](http://masha-krupenkin.com) and [Dr. Yiwei Xu](https://www.yiweixu.net/). I'm a member of the Computational Socio-dynamics Dynamics Lab (CSDL) and the [Computational Linguistics and Information Processing (CLIP) Lab](https://clip.umiacs.umd.edu/).
+I'm a first-year PhD student in Information Science at the University of Maryland, College Park, advised by [Dr. Masha Krupenkin](http://masha-krupenkin.com) and [Dr. Yiwei Xu](https://www.yiweixu.net/). I'm a member of the Computational Socio-dynamics Lab (CSDL) and the [Computational Linguistics and Information Processing (CLIP) Lab](https://clip.umiacs.umd.edu/).
 
 My research focuses on computational social science and network science. I'm interested in using large-scale social media data to understand how people interact and share information on social platforms, and how platform dynamics shape communication, persuasion, and information flow online, including media and political narratives. As a first-year, I'm still narrowing down my specific questions.
 
