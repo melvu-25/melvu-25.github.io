@@ -24,7 +24,7 @@ Research interests (still exploring!)
 News
 ------
 * **Nov 2026:** Launched this website!!
-* **Oct 16, 2026:** Chaired the panel "What Constructed Agents Sound Like: Language, Pragmatics, and Culture in Human-AI Interaction" and presented "What AI Calls You: Social Deixis, Pronoun Systems, and the Limits of AI Agents in Vietnamese" at the Technology for Second Language Learning (TSLL) Conference, Iowa State University.
+* **Oct 16, 2026:** Chaired the panel "What Constructed Agents Sound Like: Language, Pragmatics, and Culture in Human-AI Interaction" and presented my research about AI agents on Vietnamese pronouns at the Technology for Second Language Learning (TSLL) Conference, Iowa State University.
 * **Aug 26, 2026:** Started my PhD :)
 * **May 18, 2026:** Graduated from college!
 * **March 28, 2026:** Presented social network analysis research on the Frasier Solar project at the Midwest Sociological Society (MSS) conference.
