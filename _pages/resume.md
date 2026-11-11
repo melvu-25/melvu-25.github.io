@@ -15,13 +15,13 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Information Science**, University of Maryland, College Park, 2026 to present
-  * Advisor: Dr. Masha Krupenkin
+  * Advisors: Dr. Masha Krupenkin and Dr. Yiwei Xu
 * **B.A. in Applied Mathematics/Statistics and Chinese**, Kenyon College, 2026
   * Study abroad: Shanghai, China
 
 Research experience
 ======
-* **PhD Researcher**, Computational Social Dynamics Lab, University of Maryland, 2026 to present
+* **PhD Researcher**, Computational Social Dynamics Lab (CSDL) and Computational Linguistics and Information Processing (CLIP) Lab, University of Maryland, 2026 to present
 * **Undergraduate Researcher**, Kenyon College (with Prof. Nicholas Theis)
   * Social network analysis of public discourse around the Frasier Solar project
 * **Office of Institutional Research**, Kenyon College
