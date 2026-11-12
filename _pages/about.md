@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! Xin chào! I'm Melissa, a first-year PhD student in Information Science at the University of Maryland, College Park (UMD), where I'm advised by [Dr. Masha Krupenkin](http://masha-krupenkin.com) and [Dr. Yiwei Xu](https://www.yiweixu.net/). I'm a member of the [Computational Linguistics and Information Processing (CLIP) Lab](https://clip.umiacs.umd.edu/) and the [Computational Sociodynamics Lab (CSDL)](https://glciampaglia.com).
 
-My research focuses on computational social science and network science. I'm interested in using large-scale social media data to understand how people interact and share information on social platforms, and how platform dynamics shape communication, persuasion, and information flow online, including media and political narratives. As a first-year, I'm still narrowing down my specific questions.
+My research focuses on computational social science and network science. I'm interested in using large-scale social media data to understand how people interact and share information on social platforms, and how platform dynamics shape communication, persuasion, and information flow online, including media and political narratives. I’m also interested in natural language processing, both as a tool for analyzing online discourse at scale and as an object of study.
 
 Before UMD, I graduated from Kenyon College in 2026 with a double major in Applied Mathematics/Statistics and Chinese. I've worked on machine learning in industry at VinBigdata, where I built a production pricing model on ride-share data with over 15 million records, and at Kenyon I used network analysis to study public discourse around a local solar energy project, with Prof. Nicholas Theis.
 
