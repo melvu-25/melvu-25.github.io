@@ -55,3 +55,9 @@ strong, b { font-weight: 500; }
   white-space: nowrap;
   color: var(--global-text-color-light);
 }
+
+/* Resume entries: org line + role line, then bullets */
+.cv-head, .cv-sub { margin: 0; }
+.cv-head { margin-top: 1.4em; }
+.cv-sub { margin-top: 0.2em; }
+.cv-head + ul, .cv-sub + ul { margin-top: 0.4em; }
