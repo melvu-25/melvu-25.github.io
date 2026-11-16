@@ -43,7 +43,7 @@ Research experience
 <p class="cv-head"><span class="cv-date">College Park, MD</span><strong>University of Maryland, College Park</strong></p>
 <p class="cv-sub"><span class="cv-date">08/2026 – Present</span><em>Graduate Research Assistant | Advisor: Dr. Masha Krupenkin</em></p>
 
-* Designed a study of how borrowers' online discourse tracks government complaint data (target: ICWSM 2028), linking 162K r/StudentLoans posts and 2.1M comments (2011 to 2026) with 106K CFPB student loan complaints in a reproducible Python and DuckDB pipeline.
+* Designed a study of how borrowers' online discourse tracks government complaint data, linking 162K r/StudentLoans posts and 2.1M comments (2011 to 2026) with 106K CFPB student loan complaints in a reproducible Python and DuckDB pipeline.
 * Used Claude Code agents to run EDA, literature review, and user profiling in parallel, while owning the research design and logging each methodological decision for advisor review.
 * Developed a scalable topic modeling pipeline (BERTopic, transformer embeddings) over 1.9M Reddit texts and CFPB narratives, condensing 262 raw topics into 71 interpretable themes, and profiled the top 100 commenters' cross-subreddit activity to study who shapes the discussion.
 
