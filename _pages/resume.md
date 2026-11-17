@@ -33,7 +33,7 @@ Education
 <p class="cv-head"><span class="cv-date">Gambier, OH</span><strong>Kenyon College</strong></p>
 <p class="cv-sub"><span class="cv-date">08/2022 – 05/2026</span><em>Bachelor of Science, Mathematics (Applied Statistics track) and Chinese double major.</em></p>
 
-* GPA: 3.7 - Daniel T. Finkbeiner II Scholarship for Excellence in Mathematics and Statistics.
+* Daniel T. Finkbeiner II Scholarship for Excellence in Mathematics and Statistics.
 * Activities: Pi Mu Epsilon Mathematics Honor Society, Women in Math, Community Choir, Dance Concert.
 * Fall 2024 in Shanghai, China: Advanced Chinese, Chinese Economy, Contemporary Chinese Cinema, Internship.
 
