@@ -26,7 +26,7 @@ Education
 <p class="cv-sub"><span class="cv-date">Expected 05/2031</span><em>Doctor of Philosophy in Information Science</em></p>
 
 * Computational Social Science, Social Network Analysis, Natural Language Processing.
-* Advisors: [Dr. Masha Krupenkin](https://masha-krupenkin.com/) and [Dr. Yiwei Xu](https://www.yiweixu.net/) (co-advisor)
+* Advisors: [Dr. Masha Krupenkin](https://masha-krupenkin.com/) and [Dr. Yiwei Xu](https://www.yiweixu.net/) 
 * Labs: [Computational Linguistics and Information Processing (CLIP)](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) and Computational Sociodynamics Lab (CSDL).
 * Dean's Fellowship Award recipient.
 
